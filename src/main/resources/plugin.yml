@@ -1,0 +1,23 @@
+main: eu.bidulaxstudio.commandcreator.CommandCreator
+name: CommandCreator
+version: 1.0.0
+author: Bidulman
+commands:
+  commandcreator:
+    description: "The base command of the plugin"
+    usage: /commandcreator <action> [args]
+    aliases:
+      - cc
+permissions:
+  commandcreator.add:
+    description: "Can add a new command"
+    default: op
+  commandcreator.remove:
+    description: "Can remove a command"
+    default: op
+  commandcreator.get:
+    description: "Can list all the commands"
+    default: op
+  commandcreator.use:
+    description: "Can use all commands"
+    default: op

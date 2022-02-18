@@ -1,0 +1,12 @@
+messages:
+  badUsage: "You don't use correctly this command. Type '/cc help' to get help."
+  noPermission: "You don't have enough permissions to do that..."
+  addedCommand: "You successfully created a command."
+  removedCommand: "The command was removed."
+  alreadyCommand: "A command with this name already exists."
+  noCommand: "This command does not exist."
+  notWorked: "It seems this doesn't worked."
+commands:
+  - name: trycc
+    permission: op
+    value: "say I tryed CommandCreator !"
