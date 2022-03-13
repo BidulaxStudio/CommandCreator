@@ -1,6 +1,7 @@
 main: eu.bidulaxstudio.commandcreator.CommandCreator
 name: CommandCreator
 version: 1.0.0
+api-version: 1.18
 author: BidulaxStudio
 commands:
   commandcreator:
