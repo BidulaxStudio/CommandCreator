@@ -1,3 +1,8 @@
 theme: minima
+author:
+  name: Bidulman
+  email: "contact@bidulaxstudio.eu"
 minima:
   skin: dark
+  social_links:
+    github: BidulaxStudio
