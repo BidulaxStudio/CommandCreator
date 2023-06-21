@@ -15,5 +15,5 @@ A Minecraft plugin that allows you to create new commands based on other command
 - commandcreator.use : Can use all the commands
 
 Thanks to this plugin, you can create any command based on another command.
-<br>For example, you can type /cc add trycc op say I tryed CommandCreator !
+<br>For example, you can type /cc add trycc op say I tried CommandCreator !
 <br>Then, type #trycc in the chat, and you'll see the result...

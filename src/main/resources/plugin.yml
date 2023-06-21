@@ -1,8 +1,8 @@
-main: eu.bidulaxstudio.commandcreator.CommandCreator
+main: eu.bidulman.commandcreator.CommandCreator
 name: CommandCreator
 version: 1.0.0
 api-version: 1.18
-author: BidulaxStudio
+author: Bidulman
 commands:
   commandcreator:
     description: "The base command of the plugin"
