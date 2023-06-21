@@ -1,5 +1,5 @@
 # CommandCreator
-A Minecraft plugin that allows you to create new commands based on other commands
+Create new commands based on other commands
 
 ### Commands
 - /cc help : Shows help message
