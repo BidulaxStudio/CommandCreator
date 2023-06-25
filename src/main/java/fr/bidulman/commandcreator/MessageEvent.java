@@ -1,4 +1,4 @@
-package eu.bidulman.commandcreator;
+package fr.bidulman.commandcreator;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

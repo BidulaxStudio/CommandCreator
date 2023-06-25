@@ -1,4 +1,4 @@
-package eu.bidulman.commandcreator;
+package fr.bidulman.commandcreator;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

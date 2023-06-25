@@ -1,4 +1,4 @@
-main: eu.bidulman.commandcreator.CommandCreator
+main: fr.bidulman.commandcreator.CommandCreator
 name: CommandCreator
 version: 1.0.0
 api-version: 1.18
